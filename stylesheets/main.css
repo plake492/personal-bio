@@ -17,11 +17,11 @@ h1 {
     display: inline;
     margin-top: 15px;
     margin-bottom: 15px;
-    background-color: black;
-    color: white;
+    background-color: #ECF4FF;
+    color: #807EA8;
     border-style: solid;
     border-width: 5px;
-    border-color: black;
+    border-color: #ECF4FF;
     border-radius: 10px;
     border-left-width: 20px;
     border-right-width: 20px;
